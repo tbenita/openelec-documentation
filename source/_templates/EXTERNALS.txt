@@ -1,0 +1,6 @@
+#
+# created by: svn propset svn:externals -F ./EXTERNALS.txt .
+#
+
+sphinx_atrealtheme https://svn.atreal.net/public/sphinx.atrealtheme/
+
