@@ -19,11 +19,18 @@ Saisie des informations
 
     Saisie d'une procuration
 
+Une procuration peut être refusée, un motif de refus pourra être saisie,
+elle n'apparaîtra pas dans les éditions pdf de la liste électorale,
+de la liste des procuration et du registre des procuration.
+
 Validation des informations
 ===========================
 
 Une fois toutes les informations saisies, vous pouvez valider le
 formulaire pour enregistrer la procuration.
+
+Le refus d'une procuration entraine l'affichage sur le tableau d'un lie vers
+l'édition d'un courrier de refus adressé
 
 Message de Vérification : Un mandant ne donne qu’une procuration pour une
 même période. Un mandataire a au plus 2 mandats pour une même période dont

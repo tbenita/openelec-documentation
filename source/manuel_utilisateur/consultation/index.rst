@@ -22,7 +22,7 @@ La rubrique consultation vous permet de consulter les listes suivantes :
    * traces et editions.
 
 Pour chaque liste, vous disposez d'une fonction de recherche permettant
-de trouver un électeur par son prénom, nom ou même identifiant openElec.
+de trouver un électeur par son prénom, nom, sa date de naissance ou même son identifiant openElec.
 
 Lorsque cela est possible vous trouverez également à gauche de chaque
 élément de la liste des boutons permettant de réaliser diverses actions,

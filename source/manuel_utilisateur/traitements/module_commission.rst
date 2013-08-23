@@ -19,6 +19,7 @@ Pré-requis pour utiliser le module Commissions :
 
     * on doit connaître la date de la dernière commission.
 
+
 Editions préparatoire, de septembre à décembre
 ==============================================
 
@@ -34,7 +35,26 @@ Dans le cadre " Edition Des Mouvements A Presenter (rupture Par Bureau) " :
 
 .. figure:: module_commission.png
 
-    Ecran du module : Commissions
+    Écran du module : Commissions
+
+
+Saisie des membres de la commission
+===================================
+
+.. figure:: module_commission_membres.png
+
+    Membres des commissions
+
+Il permet la saisie du nom, prénom et adresse des membres.
+
+Convocation des membres à la commission
+=======================================
+
+Une fois les membres saisie il est possible de générer un fichier au format pdf contenant un courrier de convocation pour chacun d'eux.
+
+.. figure:: module_commission_convocation.png
+
+    Édition du courrier de convocation
 
 Séance de travail de la commission
 ==================================
@@ -50,7 +70,8 @@ Application des décisions de la commission
 
 Les mouvements refusés par la commission doivent être supprimés
 d’openElec. Pour chaque mouvement rejeté, il faut effectuer la recherche
-du mouvement dans son tableau puis le supprimer manuellement.
+du mouvement dans son tableau, éventuellement éditer le courrier de refus du mouvement
+puis le supprimer manuellement.
 
 Vous pouvez accédez respectivement aux tableaux des mouvements
 d'inscription, de modification et de radiation directement

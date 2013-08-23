@@ -49,9 +49,11 @@ Confirmer un membre du jury
 ---------------------------
 
 Pour définir un électeur tiré au sort comme un membre effectif du jury,
-rendez-vous dans la rubrique " Saisie " puis " Carte en retour / Juré ".
-Recherchez l'électeur puis éditez sa fiche en cliquant sur le bouton
+rendez-vous sur le tableau des électeurs tirés au sort puis éditez sa fiche en cliquant sur le bouton
 modifier (représenté par une icone de crayon).
+
+.. note:: Il est possible d'éditer ces information dans la fiche électeur
+          via le lien "Informations pour le jury d'assises" du menu contextuel.
 
 Enfin remplissez la section " Juré d'assises ". Le champ " Date préfecture "
 correspond à la date à laquelle la préfecture a donné son accord pour la
