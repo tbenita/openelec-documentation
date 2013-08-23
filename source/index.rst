@@ -54,6 +54,7 @@ Contributeurs
 * `atReal <http://www.atreal.fr>`_
 * Thierry Benita
 * Romain Beylerian
+* Nicolas Haye
 * Sophie Lacroix
 * Jean-Yves Laugier
 * Florent Michon
