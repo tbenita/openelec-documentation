@@ -1,7 +1,7 @@
 .. openelec documentation master file.
 
 ==========================
-openElec 4.x documentation
+openElec 4.0 documentation
 ==========================
 
 .. note::
