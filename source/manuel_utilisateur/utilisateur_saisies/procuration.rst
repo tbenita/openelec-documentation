@@ -35,6 +35,7 @@ l'édition d'un courrier de refus adressé
 Message de Vérification : Un mandant ne donne qu’une procuration pour une
 même période. Un mandataire a au plus 2 mandats pour une même période dont
 au moins un hors France. Un électeur en centre de vote ne peut pas donner
-procuration. Des outils permettent de vérifier les procurations et de les
+procuration. Dans ces cas la procuration peut tout de même être enregistrée si
+elle est refusée. Des outils permettent de vérifier les procurations et de les
 éditer. Ils se trouvent dans l’écran du menu « Traitement Procurations &
 Mentions ».
