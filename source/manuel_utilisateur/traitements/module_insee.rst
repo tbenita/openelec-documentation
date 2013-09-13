@@ -9,8 +9,9 @@ Import du fichier provenant de l'INSEE
 --------------------------------------
 
 Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-d'inscrits d'office. Ce fichier sera au format TXT. Le module INSEE
-vous permet d'importer les données de ce fichier dans votre base
+d'inscrits d'office. Ce fichier sera au format TXT ou XML (si l'option XML est 
+activée ).
+Le module INSEE vous permet d'importer les données de ce fichier dans votre base
 openElec.
 
 Premièrement rendez-vous dans la rubrique " Traitement / Insee "
@@ -47,9 +48,9 @@ Import du fichier provenant de l'INSEE
 --------------------------------------
 
 Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-a radier. Ce fichier sera au format TXT. Le module INSEE
-vous permet d'importer les données de ce fichier dans votre base
-openElec.
+a radier. Ce fichier sera au format TXT ou XML (si l'option XML est 
+activée ). Le module INSEE vous permet d'importer les données de ce fichier dans
+votre base openElec.
 
 Premièrement rendez-vous dans la rubrique " Traitement / Insee "
 onglet " Import Import Radiation ".
@@ -75,7 +76,7 @@ ce mouvement en cliquant sur le bouton " Ajouter ".
 Export INSEE
 ============
 
-L'export INSEE vous permet de créer un fichier texte pour transférer à
+L'export INSEE vous permet de créer un fichier pour transférer à
 l'INSEE tous les mouvements concernant la date de tableau en cours et
 paramètres pour un export dans le paramétrage des mouvements.
 
@@ -91,6 +92,7 @@ tableau au 10/01/2009)
 
     Ecran du module : INSEE - Export
 
+Séléctionner le type de fichier d'export convenu avec l'INSEE (TXT ou XML).
 Cliquez sur le bouton " Génération du fichier Export INSEE ".
 
 Vous pouvez ensuite imprimer les statistiques des envois CNEN par bureau, le
