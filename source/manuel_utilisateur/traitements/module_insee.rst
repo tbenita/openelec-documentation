@@ -9,8 +9,7 @@ Import du fichier provenant de l'INSEE
 --------------------------------------
 
 Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-d'inscrits d'office. Ce fichier sera au format TXT ou XML (si l'option XML est 
-activée ).
+d'inscrits d'office. Ce fichier sera au format TXT ou XML.
 Le module INSEE vous permet d'importer les données de ce fichier dans votre base
 openElec.
 
@@ -48,8 +47,8 @@ Import du fichier provenant de l'INSEE
 --------------------------------------
 
 Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-a radier. Ce fichier sera au format TXT ou XML (si l'option XML est 
-activée ). Le module INSEE vous permet d'importer les données de ce fichier dans
+a radier. Ce fichier sera au format TXT ou XML.
+Le module INSEE vous permet d'importer les données de ce fichier dans
 votre base openElec.
 
 Premièrement rendez-vous dans la rubrique " Traitement / Insee "
@@ -79,10 +78,10 @@ Export INSEE
 L'export INSEE vous permet de créer deux fichiers à transférer à l'INSEE :
 
 * l'un porte sur tous les mouvements concernant la date de tableau en cours et
-paramètres pour un export dans le paramétrage des mouvements
-
+  paramètres pour un export dans le paramétrage des mouvements
 * l'autre sur l'export de mise en concordance des listes éléctorales et du fichier
-général des électeurs
+  général des électeurs
+
 
 Pour ce faire, allez dans la rubrique " Traitement / Insee ".
 
@@ -110,3 +109,22 @@ puis cliquez sur le bouton " Génération du fichier Export INSEE ".
 
 De la même façon pour générer le fichier de mise en concordance il suffit de
 cliquer sur le bouton " Génération du fichier MEC INSEE ".
+
+Paramétrage des exports INSEE
+-----------------------------
+
+Il est nécessaire de paramétrer correctement la collectivité afin de générer des 
+exports TXT valides.
+
+Le paramétrage des partenaires est optionel si les exports XML ne sont pas utilisés.
+Dans le cas contraire, 2 types de partenaire doivent être paramétrés :
+
+* partenaire d'origine (collectivité émettrice de l'export)
+* partenaire de destination (INSEE)
+
+.. image:: module_insee_test.png
+
+Ecran du module : INSEE - Test
+
+Suite à ces paramétrages il est judicieux de générer un export de test afin de 
+vérifier le contenu du fichier.
