@@ -76,9 +76,13 @@ ce mouvement en cliquant sur le bouton " Ajouter ".
 Export INSEE
 ============
 
-L'export INSEE vous permet de créer un fichier pour transférer à
-l'INSEE tous les mouvements concernant la date de tableau en cours et
-paramètres pour un export dans le paramétrage des mouvements.
+L'export INSEE vous permet de créer deux fichiers à transférer à l'INSEE :
+
+* l'un porte sur tous les mouvements concernant la date de tableau en cours et
+paramètres pour un export dans le paramétrage des mouvements
+
+* l'autre sur l'export de mise en concordance des listes éléctorales et du fichier
+général des électeurs
 
 Pour ce faire, allez dans la rubrique " Traitement / Insee ".
 
@@ -104,3 +108,5 @@ Vous trouverez dans la dernière colonne " envoi " la date d'envoi et son
 numéro. Entrer ce numéro dans le champ " Numéro du transfert INSEE à renvoyer "
 puis cliquez sur le bouton " Génération du fichier Export INSEE ".
 
+De la même façon pour générer le fichier de mise en concordance il suffit de
+cliquer sur le bouton " Génération du fichier MEC INSEE ".
