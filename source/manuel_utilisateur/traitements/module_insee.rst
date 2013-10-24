@@ -98,6 +98,10 @@ tableau au 10/01/2009)
 Séléctionner le type de fichier d'export convenu avec l'INSEE (TXT ou XML).
 Cliquez sur le bouton " Génération du fichier Export INSEE ".
 
+.. note:: Pour réaliser un export xml le paramétrage des partenaires doit être
+          effectué : un partenaire d'origine et un autre de destination doivent
+          être créés.
+
 Vous pouvez ensuite imprimer les statistiques des envois CNEN par bureau, le
 listing du prochain envoi ainsi que le listing des mouvement déjà envoyés.
 
@@ -125,6 +129,3 @@ Dans le cas contraire, 2 types de partenaire doivent être paramétrés :
 .. image:: module_insee_test.png
 
 Ecran du module : INSEE - Test
-
-Suite à ces paramétrages il est judicieux de générer un export de test afin de 
-vérifier le contenu du fichier.
