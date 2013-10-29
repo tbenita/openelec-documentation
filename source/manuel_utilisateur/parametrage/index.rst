@@ -1,7 +1,7 @@
 .. _parametrage:
 
 ###########
-Parametrage
+Paramétrage
 ###########
 
 Tous les paramétrages se font par l’intermédiaire de formulaires. Dans
@@ -41,7 +41,7 @@ fait de la même manière que le paramétrage des utilisateurs.
     Rubrique Parametrage : Mouvements
 
 Découpage
-====================
+=========
 
 Le découpage inclut plusieurs notions: le canton, le bureau, la voie.
 Chaque bureau appartient à un canton, et chaque voie appartient à un bureau
