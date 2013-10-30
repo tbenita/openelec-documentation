@@ -115,7 +115,7 @@ saisir si ce n'est pas nécessaire :
 
 Ces informations sont uniquement les caractéristiques du mouvement, elles
 signalent qu'il est actif ou non, le numéro de la liste ainsi que la date du
-tableau. ce sont des informations importantes comme le dit le préambule de cet
+tableau. Ce sont des informations importantes comme le dit le préambule de cet
 article.
 
 .. figure:: saisie_d_un_nouvel_electeur.png
