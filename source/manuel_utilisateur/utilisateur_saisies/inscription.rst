@@ -130,7 +130,7 @@ Une fois toutes les informations saisies, vous pouvez vérifier qu'il n'y a pas
 de doublon avec l'électeur que vous êtes en train d'inscrire en cliquant sur
 l'icone qui est avant le bouton "Ajouter Mouvement".
 
-Si vous ne trouvez aucun résultat pertinant, vous pouvez valider le formulaire
+Si vous ne trouvez aucun résultat pertinent, vous pouvez valider le formulaire
 pour enregistrer l'inscription. Une fois validé, le formulaire s'affiche à
 nouveau avec des informations sur l'enregistrement tout en bas de la page.
 Vérifiez bien que tout s'est déroulé correctement et cliquez sur le bouton
